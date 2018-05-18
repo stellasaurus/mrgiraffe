@@ -1,1 +1,1 @@
-web: python gfa_bot.py
+web: python echo.py
